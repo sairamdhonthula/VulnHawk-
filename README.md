@@ -1,8 +1,18 @@
 # VulnHawk – Intelligent Vulnerability Detection Platform
 
-"Securing the next generation of global connectivity."
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red)
+![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB)
+![Framework: Flask](https://img.shields.io/badge/Framework-Flask-000000)
+![Frontend: Bootstrap + Chart.js](https://img.shields.io/badge/Frontend-Bootstrap%20%2B%20Chart.js-7952B3)
+![Status: Active Monitoring](https://img.shields.io/badge/Status-Active%20Monitoring-2ea44f)
 
-© 2026 Sairam. All Rights Reserved.
+Enterprise-grade network vulnerability scanning, CVE enrichment, and reporting.
+
+> Securing the next generation of global connectivity.
+
+© 2026 Sairam. All Rights Reserved. Developed by Sairam.
+
+## Overview
 
 VulnHawk – Intelligent Vulnerability Detection Platform is a Python-based network vulnerability scanner that:
 
@@ -54,7 +64,7 @@ nmap --version
 ### Optional (recommended)
 
 - `searchsploit` (Exploit-DB) for richer exploit mapping
-	- If `searchsploit` is not installed, the scanner still runs, but exploit results may be limited.
+  - If `searchsploit` is not installed, the scanner still runs, but exploit results may be limited.
 
 ## Installation
 
@@ -96,7 +106,7 @@ python web_dashboard.py
 
 Open:
 
-- http://127.0.0.1:5000
+- <http://127.0.0.1:5000>
 
 Enter one of the following target formats in the UI:
 

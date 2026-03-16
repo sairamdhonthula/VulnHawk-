@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Logs & reports (generated)
+logs/
+reports/
+
+# Local databases
+*.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets (never commit)
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.jks
+*.keystore
+secrets.*
